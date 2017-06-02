@@ -23,3 +23,7 @@ Example:
 ----
 oc new-app nationalparks-py -p APPLICATION_HOSTNAME=nationalparks-roadshow.127.0.0.1.xip.io
 ----
+
+Run wildfly-nosql project via:
+mvn wildfly-swarm:run
+----
